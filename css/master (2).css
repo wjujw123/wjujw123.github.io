@@ -85,9 +85,9 @@ footer{
   text-align: center;
 }
 .container {
-  column-count: 3;
-  column-width: 600px;
-  column-gap: 20px;
+  column-count: 2;
+  column-width: 550px;
+  column-gap: 10px;
 }
 
 .card {
