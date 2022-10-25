@@ -30,13 +30,13 @@
 
   h1 {
     margin-bottom: 0.5rem;
-    margin-top: 3rem;
+    margin-top: 2.5rem;
     font-size: 300%;
    }
 
   h2 {
     color: #075AAB/* set the text color of to #075AAB here */
-    margin-top: 2.5rem;
+    margin-top: 2rem;
     font-size: 200%;
 /* set both the bottom margin and top margin to 2.5rem here */
    }
@@ -85,8 +85,8 @@ footer{
   text-align: center;
 }
 .container {
-  column-count: 2;
-  column-width: 550px;
+  column-count: 3;
+  column-width: 100px;
   column-gap: 10px;
 }
 
@@ -95,6 +95,6 @@ footer{
   page-break-inside: avoid;
   background-color:;
   border: ;
-  padding: ;
-  margin: ;
+  padding: 10px;
+  margin: 0 0 1em 0;
 }
