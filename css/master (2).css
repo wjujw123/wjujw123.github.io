@@ -86,7 +86,7 @@ footer{
 }
 .container {
   column-count: 3;
-  column-width: 550px;
+  column-width: 600px;
   column-gap: 20px;
 }
 
